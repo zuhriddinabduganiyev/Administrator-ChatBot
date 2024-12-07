@@ -1,5 +1,5 @@
 ## Administrator ChatBot
-!(chat.png)[]
+!(chat.png]()
 
 The file appears to be a Python script that utilizes the **Streamlit** framework and various modules from the **LangChain** library, which is likely designed for natural language processing, embeddings, and vector search functionalities. Based on this, I'll draft a README file in Russian, Uzbek, and English.
 
